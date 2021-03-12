@@ -1,2 +1,2 @@
-# js-game
+# team project
 she hacks 
