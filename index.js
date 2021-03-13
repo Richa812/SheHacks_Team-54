@@ -1,1 +1,17 @@
+console.log("Welcome");
+showNotes();
 
+// If user adds a note, add it to the localStorage
+let addBtn = document.getElementById("addBtn");
+addBtn.addEventListener("click", function(e) {
+  let addTxt = document.getElementById("addTxt");
+  let notes = localStorage.getItem("task");
+  if (notes == null) {
+    notesObj = [];
+  } else {
+    notesObj = JSON.parse(notes);
+  }
+  notesObj.push(addTxt.value);
+  localStorage.setItem("task", JSON.stringify(notesObj));
+  addTxt.value = "";
+//   console.log(no
