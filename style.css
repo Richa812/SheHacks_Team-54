@@ -1,25 +1,29 @@
 * {
     margin:0px;
 }
+
 body{
-    background: rgb(235, 227, 159);
-   
-
+    background-image: url('images (2).jpeg');
 }
-
 .card{
+    margin: 20px;
     border-radius: 15px;
-    background-color:#b9b9d4;
+    background-color:rgb(185, 176, 129);
 }
 .card-title{
-    font-family: 'Times New Roman', Times, serif;
-    color:whitesmoke;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(8, 8, 8);
+    font-size: 30px;;
 }
 h1 
 { 
-    color: #413f31; 
-    font-family: Snell Roundhand,cursive, serif; 
-    font-size: 45px; font-weight: normal; 
+    color: #000000; 
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    font-size: 55px; font-weight: normal; 
     line-height: 48px;
-     margin: 0; 
+     margin: 5px; 
 }
+
+
+
+
