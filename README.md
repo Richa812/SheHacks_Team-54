@@ -1,6 +1,6 @@
 ## DO-WITH-TAGS
 
-### A to-do list which provides an addtional filter property
+### A to-do list which provides an additional filter property
 
 ### Tech-Stack:
 
