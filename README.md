@@ -1,6 +1,10 @@
-#SHeHacks_Team54
+## DO-WITH-TAGS
+
+### A to-do list which provides an addtional filter property
+
+### Tech-Stack:
+
+> Html, Css, Javascript
 
 
-We are planning to make  a functional To-do list with the help of javascript.
 
-ps: you can add #tags to your tasks and filter them on the basis of them : ))
